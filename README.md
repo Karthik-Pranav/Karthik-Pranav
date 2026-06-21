@@ -1,8 +1,9 @@
-# Hi, I'm Karthik Pranav 👋
+# Hi, I'm Karthik Pranav Dhulipala
 
-**Information Technology Student at Manipal Institute of Technology**
+Information Technology student at Manipal Institute of Technology.
 
-I am passionate about **Data Analytics, SQL, Power BI, Data Visualization, and Software Development**. I enjoy working with data to uncover insights, build dashboards, and create applications that solve real-world problems.
+I am interested in Data Analytics, SQL, Power BI, Data Visualization, and Full-Stack Development. I enjoy building data-driven applications, working with databases, and creating solutions that combine software engineering with analytics.
+
 
 ---
 
@@ -37,8 +38,6 @@ I am passionate about **Data Analytics, SQL, Power BI, Data Visualization, and S
 * Git & GitHub
 
 ---
-
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
