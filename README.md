@@ -40,17 +40,32 @@ I am passionate about **Data Analytics, SQL, Power BI, Data Visualization, and S
 
 ## 🚀 Featured Projects
 
-### ResumeIQ
+## 🚀 Featured Projects
 
-AI-powered resume analysis platform that evaluates resumes and provides actionable feedback.
+### School of Computer Engineering Website
 
-### Book Catalogue
+Contributed to the development of the School of Computer Engineering website
 
-Full-stack web application for managing and organizing book collections.
+### Resume Analyzer
+
+Developed an AI-powered resume analysis platform that evaluates resumes wrt Job Descriptions and provides actionable feedback to users.
+
+### Full-Stack Book Catalogue
+
+Built a MERN-stack application for managing and organizing book collections with a responsive user interface and database integration.
+
+### Classroom Booking Management System
+
+Designed and implemented a database-driven classroom booking system using SQL for efficient resource scheduling and management.
+
+### Hotel Management System
+
+Developed an object-oriented hotel management system demonstrating OOP principles such as inheritance, encapsulation, and polymorphism.
 
 ### Araw Analytics
 
-Analytics-focused project involving data processing, visualization, and insight generation.
+Contributed to full-stack web development projects for Araw Analytics, working on application features, backend functionality, and data-driven solutions.
+
 
 ---
 
@@ -65,13 +80,6 @@ Analytics-focused project involving data processing, visualization, and insight 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik-Pranav\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Pranav\&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
